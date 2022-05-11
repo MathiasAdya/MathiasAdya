@@ -1,1 +1,1 @@
-cout << "New to gitHub and programming";
+cout << "New to gitHub";
